@@ -1,0 +1,9 @@
+site_name: Atn Wiki
+site_url: https://atn-official.github.io/mkdoks/
+theme:
+  name: material
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
